@@ -1,0 +1,39 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header {
+    width: 50%;
+    margin: 0 auto;
+    background-image: url(http://wallpaper.ultradownloads.com.br/120220_Papel-de-Parede-Paraiso-Azul_1920x1200.jpg);
+    background-repeat: no-repeat;
+    background-size: 1024px 170px;
+    color: white;
+    padding: 20px;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.tagline {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+.skills {
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgb(141, 208, 245);
+    padding: 20px;
+     color: #fff;
+}
+
+.contact {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
